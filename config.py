@@ -1,14 +1,14 @@
 import os
 
-API_ID = os.environ.get("API_ID", "25967358")
+API_ID = os.environ.get("API_ID", "728093729")
 
-API_HASH = os.environ.get("API_HASH", "10a5a31171dfdc323efdbcf84a8fb016")
+API_HASH = os.environ.get("API_HASH", "fdad88238287459c6dc790658f1008c1")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7871041512:AAGhSJDGrJRFJrnAcoEcZIXi8KULRIJi0lQ")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7618406291:AAEQx5U5nGFNoXRaCsz9nGrMPCHd1GYya_k")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-#OWNER = int(os.environ.get("OWNER", 7733608738))
+#OWNER = int(os.environ.get("OWNER", 728093729))
 
 #LOG = -1002896206723,
 
@@ -17,8 +17,8 @@ PASS_DB = int(os.environ.get("PASS_DB", "721"))
 # auth_chats = []
 
 #try:
-    #ADMINS=[7733608738]
-    #for x in (os.environ.get("ADMINS", "7733608738").split()):
+    #ADMINS=[728093729]
+    #for x in (os.environ.get("ADMINS", "728093729").split()):
         #ADMINS.append(int(x))
 #except ValueError:
         #raise Exception("Your Admins list does not contain valid integers.")
