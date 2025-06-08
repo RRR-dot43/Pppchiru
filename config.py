@@ -18,7 +18,7 @@ PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
 #try:
     #ADMINS=[7733608738]
-    #for x in (os.environ.get("ADMINS", "7733608738)").split()):
+    #for x in (os.environ.get("ADMINS", "7733608738").split()):
         #ADMINS.append(int(x))
 #except ValueError:
         #raise Exception("Your Admins list does not contain valid integers.")
